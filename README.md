@@ -10,7 +10,7 @@ On alternating weeks the plan is to
 
 ## Repository Stucture
 
-> Place the papers you select for collective reading or individual reading in the following folders:
+> Index and place the papers you select for collective reading or individual reading in the following folders:
 
 - Collective Reading: [group-lit](https://github.com/Peter-Kedron/PhD-Reading-Group/tree/main/group-lit)
 - Premier Readings: [premier-lit](https://github.com/Peter-Kedron/PhD-Reading-Group/tree/main/premier-lit)
@@ -20,3 +20,6 @@ On alternating weeks the plan is to
 - [Sarah Bardin](https://github.com/SarahBardin)
 - [Tyler Hoffman](https://github.com/thoffman1)
 - Wenxin Yang
+
+## Fall 2021 - Collective Reading Schedule
+- [ ] **Kedron** 2021-08-27
