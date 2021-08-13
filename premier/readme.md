@@ -1,4 +1,4 @@
-# Literature
+# Papers Individually Selected from 'Premier' Journals
 
 This folder is designed to collect and organize the papers you individually chose to read from preimer journals. 
 
