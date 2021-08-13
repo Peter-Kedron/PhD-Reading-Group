@@ -15,11 +15,12 @@ On alternating weeks the plan is to
 - Collective Reading: [group-lit](https://github.com/Peter-Kedron/PhD-Reading-Group/tree/main/group-lit)
 - Premier Readings: [premier-lit](https://github.com/Peter-Kedron/PhD-Reading-Group/tree/main/premier-lit)
 
+## Fall 2021 - Collective Reading Schedule
+- [ ] (2021-08-27) *Kedron*
+
+
 ## Current Group Members
 - [Peter Kedron](https://sgsup.asu.edu/peter-kedron)
 - [Sarah Bardin](https://github.com/SarahBardin)
 - [Tyler Hoffman](https://github.com/thoffman1)
 - Wenxin Yang
-
-## Fall 2021 - Collective Reading Schedule
-- [ ] (2021-08-27) *Kedron*
