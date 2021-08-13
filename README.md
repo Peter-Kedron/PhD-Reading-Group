@@ -1,8 +1,8 @@
 # PhD Reading Group
 This reading group is designed to help students gain experience in closely and critically reading peer-reviewed literature. 
 The focus is two fold. 
-First, to gain experience reading in the Human-Environment and Geographical Science, we will collectively read and disect paper from our field of specialization. 
-Second, to gain an understanding of current research at the frontier of science and identify techniques and ideas that may help us grow as geographers, you will individually read one paper per week that you select from a premier journal (e.g., *Nature, Science, Proceedings of the National Academy of Science, American Economic Review*).
+**First**, to gain experience reading in the Human-Environment and Geographical Science, we will collectively read and disect paper from our field of specialization. 
+**Second**, to gain an understanding of current research at the frontier of science and identify techniques and ideas that may help us grow as geographers, you will individually read one paper per week that you select from a premier journal (e.g., *Nature, Science, Proceedings of the National Academy of Science, American Economic Review*).
 
 On alternating weeks the plan is to 
 1. **Week 1 -** Closely read a single paper that one student has chosen from the Human-Environment and Geographical Sciences and then collectively deconstruct that paper and the argument it makes during our weekly meeting.  
