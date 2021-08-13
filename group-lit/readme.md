@@ -1,4 +1,4 @@
-# Papers Individually Selected for Collective Reading
+# Papers Selected for Collective Reading
 
 This folder is designed to collect and organize the papers we will read collectively and discuss in detail together. The goal here is for you to learn to closely read papers in our discipline and then critically deconstruct the argumentation presented. 
 
