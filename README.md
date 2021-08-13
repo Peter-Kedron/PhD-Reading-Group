@@ -22,4 +22,4 @@ On alternating weeks the plan is to
 - Wenxin Yang
 
 ## Fall 2021 - Collective Reading Schedule
-- [ ] **Kedron** 2021-08-27
+- [ ] (2021-08-27) *Kedron*
